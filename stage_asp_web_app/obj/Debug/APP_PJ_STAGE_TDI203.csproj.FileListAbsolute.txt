@@ -1,0 +1,5 @@
+D:\Projet_Aziza\app_Stage\stage_asp_web_app\bin\stage_asp_web_app.dll.config
+D:\Projet_Aziza\app_Stage\stage_asp_web_app\bin\stage_asp_web_app.dll
+D:\Projet_Aziza\app_Stage\stage_asp_web_app\bin\stage_asp_web_app.pdb
+D:\Projet_Aziza\app_Stage\stage_asp_web_app\obj\Debug\stage_asp_web_app.dll
+D:\Projet_Aziza\app_Stage\stage_asp_web_app\obj\Debug\stage_asp_web_app.pdb
